@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ying-ge/FigureYa/main/web/logo_icon_64_64.png" alt="FigureYa Logo" width="100">
+  <h1>Hi there, I'm Ying 👋</h1>
+</div>
 
-<!--
-**ying-ge/ying-ge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I'm a bioinformatician and the creator of the <b><a href="https://github.com/ying-ge/FigureYa">FigureYa</a></b> project. 
+  <br>
+  I'm passionate about making biomedical data analysis more accessible, reproducible, and efficient for researchers worldwide.
+  <br>
+  <br>
+  <b><a href="https://github.com/ying-ge/FigureYa/wiki/Home-zh">🇨🇳 中文版介绍请点击这里</a></b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 My Main Project: [FigureYa](https://github.com/ying-ge/FigureYa)
+
+**FigureYa** is a comprehensive biomedical data visualization framework providing **300+ standardized R Markdown templates** for creating scientific figures. It is designed to empower researchers in genomics, transcriptomics, proteomics, and clinical studies.
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ying-ge/FigureYa">
+    <img src="https://github.com/ying-ge/ying-ge/blob/main/logo.svg" alt="FigureYa Framework" width="800">
+  </a>
+</div>
+
+<br>
+
+### ✨ Key Features of FigureYa:
+- **Reproducible Science**: Built on R Markdown to ensure every analysis is transparent and repeatable.
+- **Self-Contained Modules**: Each of the 300+ modules is independent, with automatic dependency installation.
+- **Standardized Inputs**: Easily use your own data with the provided `easy_input_*.csv` templates.
+- **Publication-Ready**: Generates high-quality vector graphics (PDF) and interactive HTML reports.
+- **Bilingual Documentation**: Supports both English and Chinese to benefit a global community.
+
+The project is a testament to my belief in open science and the power of well-documented, reusable code.
+
+## 🌱 I'm Currently Focusing On
+- Expanding the **FigureYa** library with more analysis modules.
+- Improving the framework's automation and user experience.
+- Exploring new visualization techniques in bioinformatics.
+
+## 💻 My Tech Stack
+
+- **Primary Languages**: R (with R Markdown, ggplot2, Bioconductor), Python
+- **Web Technologies**: HTML, JavaScript
+- **Automation**: GitHub Actions
+- **Tools**: RStudio, Git
+
+## 📫 How to Connect & Contribute
+
+- **Contribute to FigureYa**: I welcome contributions! Check out the `FigureYa000ContributionTemplate` in the [FigureYa repository](https://github.com/ying-ge/FigureYa) to get started.
+- **Find me**: You can find my work and contributions right here on GitHub.
+
+Thanks for visiting my profile!
+
+---
+<div align="center">
+  <i>"Making complex data beautiful and reproducible."</i>
+</div>
