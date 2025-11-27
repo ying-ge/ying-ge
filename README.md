@@ -37,7 +37,7 @@ The project is a testament to my belief in open science and the power of well-do
 - **Primary Languages**: R (with R Markdown, ggplot2, Bioconductor), Python
 - **Web Technologies**: HTML, JavaScript
 - **Automation**: GitHub Actions
-- **Tools**: RStudio, Git
+- **Tools**: Cursor, VS Code, Git
 
 Thanks for visiting my profile!
 
