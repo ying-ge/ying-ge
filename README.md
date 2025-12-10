@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ying-ge/ying-ge/blob/main/logo.svg" alt="FigureYa Logo" width="100">
+  <img src="https://github.com/ying-ge/FigureYa/blob/main/logo.svg" alt="FigureYa Logo" width="100">
   <h1>Hi there, I'm Ying 👋</h1>
 </div>
 
